@@ -12,7 +12,7 @@ subnet_private_2_stack_name: cf-subnet-private-2
 #hosted_zone_private_name:
 
 
-your_key_name: myKey
+your_key_name: craftinfotechkp
 
 hosted_zone_public_name: local.
 
